@@ -10,3 +10,5 @@ this is a log to keep track of learning python process
 **Day 4**: Learned how to define a list, specify an elements, append and pop out a value from a list.
 
 **Day 5**: Learned how to work through a list using a for loop, how Python uses indentation to structure a program, and how to avoid some common indentation errors. You learned to make simple numerical lists. 
+
+**Day 6**: Learned list comprehensions, slicing a list in order to work with a part of list, and looping through a list, copying a list but they remain 2 seperate lists, and define a tuple, which is immutable, means the value in the tuple cannot be changed or re-defined once the original tuple is defined.
