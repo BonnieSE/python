@@ -61,3 +61,4 @@ print(dimensions[-2])
 
 #dimensions[0]=250
 #This throws an error. Basically, because we’re trying to alter a tuple, which can’t be done to that type of object, Python tells us we can’t assign a new value to an item in a tuple
+#Page 70
