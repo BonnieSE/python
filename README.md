@@ -16,3 +16,5 @@ this is a log to keep track of learning python process
 **Day 7**: Learned about tuples, which provide a degree of protection to a set of values that shouldn’t change, and how to style your increasingly complex code to make it easy to read. Programming often involves examining a set of conditions and deciding which action to take based on those conditions. If statement allows me to examine current state and respond appropriately to that state.
 
 **Day 8**: Learned about checking multiple conditions and if, elif, else chain, plus a review about for loop.
+
+**Day 9**: Learned about using if statements with lists.
