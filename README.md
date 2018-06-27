@@ -18,3 +18,5 @@ this is a log to keep track of learning python process
 **Day 8**: Learned about checking multiple conditions and if, elif, else chain, plus a review about for loop.
 
 **Day 9**: Learned about using if statements with lists.
+
+**Day 10**: Used multiple lists, for loop & if statements.
