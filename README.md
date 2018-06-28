@@ -20,3 +20,5 @@ this is a log to keep track of learning python process
 **Day 9**: Learned about using if statements with lists.
 
 **Day 10**: Used multiple lists, for loop & if statements.
+
+**Day 11**: Learned how to define, modify values in a dictionary.
