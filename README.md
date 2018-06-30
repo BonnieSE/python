@@ -24,3 +24,5 @@ this is a log to keep track of learning python process
 **Day 11**: Learned how to define, modify values in a dictionary.
 
 **Day 12**: Leared about looping through values in dictionary and looping through keys in order.
+
+**Day 12**: Learned removing key-value pairs, a dictionary of similar objects, looping through a dictionary and looping through keys and values respectively in the dictionary by the method key().
