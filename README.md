@@ -26,3 +26,6 @@ this is a log to keep track of learning python process
 **Day 12**: Leared about looping through values in dictionary and looping through keys in order.
 
 **Day 13**: Learned removing key-value pairs, a dictionary of similar objects, looping through a dictionary and looping through keys and values respectively in the dictionary by the method key().
+
+**Day 14**: learned how to nest multiple dictionaries in a list, nest lists in a dictionary, and nest a dictionary inside
+a dictionary.
