@@ -29,3 +29,5 @@ this is a log to keep track of learning python process
 
 **Day 14**: learned how to nest multiple dictionaries in a list, nest lists in a dictionary, and nest a dictionary inside
 a dictionary.
+
+**Day 15**: The input() method does not work on my spyder 2.7, so I tried to move my focus on while loop today.
