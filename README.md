@@ -31,3 +31,5 @@ this is a log to keep track of learning python process
 a dictionary.
 
 **Day 15**: The input() method does not work on my spyder 2.7, so I tried to move my focus on while loop today.
+
+**Day 16**: Learned about Avoiding Infinite Loops & Moving Items from One List to Another.
