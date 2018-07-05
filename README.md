@@ -33,3 +33,5 @@ a dictionary.
 **Day 15**: The input() method does not work on my spyder 2.7, so I tried to move my focus on while loop today.
 
 **Day 16**: Learned about Avoiding Infinite Loops & Moving Items from One List to Another.
+
+**Day 17**: Learned how to define a function to handle tasks and basic factors in a function "Def", parameters in the parentheses and arguments when we call the function.
