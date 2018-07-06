@@ -35,3 +35,5 @@ a dictionary.
 **Day 16**: Learned about Avoiding Infinite Loops & Moving Items from One List to Another.
 
 **Day 17**: Learned how to define a function to handle tasks and basic factors in a function "Def", parameters in the parentheses and arguments when we call the function.
+
+**Day 18**: Learned how to use input() to allow users to provide their own information in your programs. Learned to work with both text and numerical input and how to use while loops to make the programs run as long as users want them to. And several ways to control the flow of a while loop by setting an active flag, using the break statement, and using the continue statement.
