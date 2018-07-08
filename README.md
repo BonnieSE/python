@@ -39,3 +39,5 @@ a dictionary.
 **Day 18**: Learned how to use input() to allow users to provide their own information in your programs. Learned to work with both text and numerical input and how to use while loops to make the programs run as long as users want them to. And several ways to control the flow of a while loop by setting an active flag, using the break statement, and using the continue statement.
 
 **Day 19**: Learned setting default value for argument, making an argument optional and return values for a function.
+
+**Day 20**: Learned Using a Function with a while Loop, Passing a List and Modifying a List in a Function.
