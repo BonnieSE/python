@@ -41,3 +41,5 @@ a dictionary.
 **Day 19**: Learned setting default value for argument, making an argument optional and return values for a function.
 
 **Day 20**: Learned Using a Function with a while Loop, Passing a List and Modifying a List in a Function.
+
+**Day 21**: Learned about arbitrary keyword arguments and positional arbitrary arguments in a function.
