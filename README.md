@@ -45,3 +45,5 @@ a dictionary.
 **Day 21**: Learned about arbitrary keyword arguments and positional arbitrary arguments in a function.
 
 **Day 22**: Import function and excercise.
+
+**Day 23**: Creating and Using a Class.
