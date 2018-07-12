@@ -47,3 +47,5 @@ a dictionary.
 **Day 22**: Import function and excercise.
 
 **Day 23**: Creating and Using a Class.
+
+**Day 24**: Learned Accessing Attributes, Setting a Default Value for an Attribute and Modifying/incrementing an Attribute’s Value Through a Method in a class.
