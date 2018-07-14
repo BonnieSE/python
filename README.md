@@ -49,3 +49,5 @@ a dictionary.
 **Day 23**: Creating and Using a Class.
 
 **Day 24**: Learned Accessing Attributes, Setting a Default Value for an Attribute and Modifying/incrementing an Attribute’s Value Through a Method in a class.
+
+**Day 25**: Learned child class and define attributes and methods to child class.
