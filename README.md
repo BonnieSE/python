@@ -53,3 +53,5 @@ a dictionary.
 **Day 25**: Learned child class and define attributes and methods to child class.
 
 **Day 26**: Learned create several child class and importing class.
+
+**Day 27**: Learned about importing module and function that is prepared in python and access, read plain files in the computer through python.
