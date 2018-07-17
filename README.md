@@ -55,3 +55,6 @@ a dictionary.
 **Day 26**: Learned create several child class and importing class.
 
 **Day 27**: Learned about importing module and function that is prepared in python and access, read plain files in the computer through python.
+
+**Day 28**: Learned about setting limit to how much data you want to work with, replace() method to replace any word in a string, open() function which needs argument, read() returns an empty string when it reaches the end of the file, retrip() will remove the extra blank line, the readlines() method takes each line from the file and stores it
+in a list.
