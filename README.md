@@ -58,3 +58,5 @@ a dictionary.
 
 **Day 28**: Learned about setting limit to how much data you want to work with, replace() method to replace any word in a string, open() function which needs argument, read() returns an empty string when it reaches the end of the file, retrip() will remove the extra blank line, the readlines() method takes each line from the file and stores it
 in a list.
+
+**Day 29**: Learned Writing to a plain File through python and writing to an empty file with multiple lines, and appending to a file, Handling the ZeroDivisionError Exception.
