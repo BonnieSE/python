@@ -62,3 +62,5 @@ in a list.
 **Day 29**: Learned Writing to a plain File through python and writing to an empty file with multiple lines, and appending to a file, Handling the ZeroDivisionError Exception.
 
 **Day 30**: Learned to deal with exception and making it silent, storing data in json form.
+
+**Day 31**: dump(), load() and refactoring.
