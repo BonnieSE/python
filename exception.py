@@ -90,13 +90,22 @@ class Car():
         print("My new car is a " + str(self.name) + str(self.model) + str(self.year) + "with the color: " + str(self.color) + ".")
 
 my_car = Car('Volvo', 'V60', '2010', 'blue')
+print(type(my_car) is Car)
 
 filename2 = 'my_car.json'
 with open(filename2, 'w') as c:
     json.dump(my_car.__dict__, c)
 
+
 # Using json.dump() and json.load()
-# Page 209
+filename = 'my_car.json'
+with open(filename) as f_obj:
+    result = json.load(f_obj)
+    car = Car(**result)
+print(car)
+print(type(car) is Car)
+
+
 
 
 
