@@ -64,3 +64,7 @@ in a list.
 **Day 30**: Learned to deal with exception and making it silent, storing data in json form.
 
 **Day 31**: dump(), load() and refactoring.
+
+**Day 32**: How to write max() & min() method?
+
+**Day 33**: Learned to test data.
