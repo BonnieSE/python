@@ -68,3 +68,5 @@ in a list.
 **Day 32**: How to write max() & min() method?
 
 **Day 33**: Learned to test data.
+
+**Day 34**: Begin with the road to Data Science, learned to visualize a list of data points.
