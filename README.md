@@ -70,3 +70,5 @@ in a list.
 **Day 33**: Learned to test data.
 
 **Day 34**: Begin with the road to Data Science, learned to visualize a list of data points.
+
+**Day 35**: Starting with plotting a simple line graph, and correcting the plot and adding details to the plot.
